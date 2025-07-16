@@ -2,3 +2,6 @@ env/
 .env
 *.yml
 *.yaml
+data/bluebook-for-bulldozers/Train.csv
+data/bluebook-for-bulldozers/train_tmp.csv
+data/bluebook-for-bulldozers/TrainAndValid.csv
